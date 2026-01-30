@@ -13,7 +13,7 @@ Please find the sectional links for the project below:
 - [Tools and Techniques Used](#tools-and-techniques-used)
 - [Skills & Methodologies implemented](skills-&-methodologies-implemented)
 - [Project 1 - Sales Report](Project-1-Sales-Report)
-- ## Project 2 - Finance Report(Project-2-Finance Report)
+- [Project 2 - Finance Report](Project-2-Finance-Report)
 ---
 
 # Excel-Sales-And-Financial-Analytic-Report
