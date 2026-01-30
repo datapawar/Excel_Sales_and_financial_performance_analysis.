@@ -3,7 +3,7 @@
 
 This repository serves as my documentation for the AtliQ Hardware Sales & Finance Analytics Excel Project. It was created as a self-learning project with guidance from [Codebasics](https://codebasics.io/).
 
-The entire project has been implemented using Microsoft Excel 2016.
+The entire project has been implemented using Microsoft Excel 2021.
 
 The project files have not been uploaded to this repository in compliance with Codebasics Data & Content Distribution Policy.
 ## Contents:
