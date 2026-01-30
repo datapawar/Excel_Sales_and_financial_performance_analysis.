@@ -64,35 +64,35 @@ Atliq hardware aims is to optimize sales strategies and increase net gross margi
 
   ### Project 1 Insights
   
-  * **Customer Sales Performance:**
-  * Net Sales have shown the substantial growth over the years. In year 2021, net sales increased by 304.5%
-  * Amazon, AtliQ e Store, AtliQ Exclusive are top performing customer with good net sales growth. For eg- Amazon sales increases from 12.2M in 2019 to 82.1M in 2021.
+  * **Customer Sales Performance:** [Customer Sales Performance](1.%20customer%20performance%20report.pdf)
+    Net Sales have shown the substantial growth over the years. In year 2021, net sales increased by 304.5%
+    Amazon, AtliQ e Store, AtliQ Exclusive are top performing customer with good net sales growth. For eg- Amazon sales increases from 12.2M in 2019 to 82.1M in 2021.
  
-  * **Market Performance vs Target:** It offers insights into market performance in relation to sales targets.
+  * **Market Performance vs Target:** It offers insights into market performance in relation to sales targets. [Market Performance vs Target](3.%20market%20performance%20vs%20target.pdf)
  
-  * **Top 10 Products by Sales Growth:** "AQ Electron 4 3600 Desktop processor" is the best seller in 2021 with all product seen a significant sales growth.
+  * **Top 10 Products by Sales Growth:** "AQ Electron 4 3600 Desktop processor" is the best seller in 2021 with all product seen a significant sales growth. [Sales Division Summary](6.%20Top%2010%20products.pdf)
  
-  * **Division-wise Sales Performance:**
+  * **Division-wise Sales Performance:**  [Divisional level Report](4.%20division%20level%20report.pdf)
   * PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.
   * Accessories and peripherals experienced remarkable growth, increasing from $105.2 million to $338.4 million, a 321.5% surge.
   * Networking and storage products also saw substantial growth, climbing from $51.4 million to $94.7 million, a 184.4% increase.
     
-  * **Top and Bottom Selling Products:**
+  * **Top and Bottom Selling Products:**  [Top 5 & Bottom 5 products](7.%20top%205%20%26%20bottom%205%20products.pdf)
   * Top 5 Products by Quantity: Highlights of the best-performing items, led by "AQ Master Wired x1 Ms"
   * Bottom 5 Products by Quantity: Analysis of underperforming products, worst performed by "AQ HOME Allin1 Gen 2"
  
   * **New Product Launches in 2021:** In 2021, 16 new products were introduced, with "AQ Qwerty" standing out for its exceptional performance.
  
-  * **Top Performing Countries:** India led with $161.3 million in sales followed by USA, South Korea, Canada and United Kingdom.
+  * **Top Performing Countries:** India led with $161.3 million in sales followed by USA, South Korea, Canada and United Kingdom.  [Top Performing Countries](5.%20top%205%20countries.pdf)
  
 ## Project 2 - Finance Report
   ### Project Objective
-  * This project aim to evaluate the company's  financial performance
-  * Customer Net Sales Performance Report: A summary of the revenue generated from customers.
-  * Yearly Profit and Loss (P&L) Report: A financial performance summary for each fiscal year.
-  * Quarterly Profit and Loss (P&L) Comparison: A review of financial performance trends across the year.
-  * Market-Specific Profit and Loss (P&L) Report: A detailed breakdown of performance by market.
-  * Quarterly Gross Margin Percentage (GM%) by Location: An analysis of profitability by geographic region
+  * This project aimed to evaluate the company's  financial performance
+  * Customer Net Sales Performance Report: A summary of the revenue generated from customers.[Customer Sales Performance](1.%20customer%20performance%20report.pdf)
+  * Yearly Profit and Loss (P&L) Report: A financial performance summary for each fiscal year.[Yearly Profit and Loss (P&L)](10.%20P%26L%20year%20Markets.pdf)
+  * Quarterly Profit and Loss (P&L) Comparison: A review of financial performance trends across the year. [Quarterly Profit and Loss (P&L)](9.%20P%26L%20by%20quarters.pdf)
+  * Market-Specific Profit and Loss (P&L) Report: A detailed breakdown of performance by market. [Market-Specific Profit and Loss (P&L)](10.%20P%26L%20year%20Markets.pdf)
+  * Quarterly Gross Margin Percentage (GM%) by Location: An analysis of profitability by geographic region [Quarterly Gross Margin Percentage (GM%)](8.%20GM%25%20by%20quarters.pdf)
 
   ### Project Insights
    * Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
