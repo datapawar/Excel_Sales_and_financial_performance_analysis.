@@ -9,7 +9,8 @@ Please find the sectional links for the project below:
 - [Problem Statement](#problem-statement)
 - [Tools and Techniques Used](#tools-and-techniques-used)
 - [Skills & Methodologies implemented](skills-&-methodologies-implemented)
-
+- [Project 1 - Sales Report](Project-1-Sales-Report)
+- ## Project 2 - Finance Report(Project-2-Finance Report)
 ---
 
 # Excel-Sales-And-Financial-Analytic-Report
@@ -58,7 +59,7 @@ Atliq hardware aims is to optimize sales strategies and increase net gross margi
 
   * **Top Performing Countries:** List the top 5 countries with the highest net sales in 2021.
 
-  ### Project Insights
+  ### Project 1 Insights
   
   * **Customer Sales Performance:**
   * Net Sales have shown the substantial growth over the years. In year 2021, net sales increased by 304.5%
