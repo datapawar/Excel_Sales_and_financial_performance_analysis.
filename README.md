@@ -1,5 +1,5 @@
-
-
+# <img src="https://miro.medium.com/v2/resize:fit:1400/1*8bUjUiCWk0VhS8-lgAj0Og.png" width="4%" height="4%"> AtliQ Hardware - Sales & Finance Analytics
+<img src="https://github.com/datapawar/Excel_Sales_and_financial_performance_analysis./blob/branch-1/excel%20project%20thumbnail.png" width="100%" height="100%">
 
 This repository serves as my documentation for the AtliQ Hardware Sales & Finance Analytics Excel Project. It was created as a self-learning project with guidance from [Codebasics](https://codebasics.io/).
 
